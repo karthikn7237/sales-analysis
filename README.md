@@ -1,4 +1,4 @@
-
+if
 # sales-analysis
 
 The Walmart Superstore has a vast amount of sales data, including information on products, customers, stores, and transactions. The main objective is to extract meaningful insights from this data to analyse the overall sales of walmart superstore.
@@ -17,12 +17,4 @@ The Walmart Superstore has a vast amount of sales data, including information on
 
 ![IMG-20241110-WA0002.jpg](https://github.com/user-attachments/assets/663f28cb-b909-4842-a817-f967fd6a3aa2)
 
-Description:
-
-1. Overall Profit Growth: The sum of profit increased by 19,824.77% between January 2011 and December 2014.
-2. Notable Growth Period: Profit growth started to trend up in July 2013, with a rise of 40.29% over 17 months.
-3. Top Ship Mode by Segment Sales: Standard Class led again with 406,752.80 in sales.
-4. State-Level Profit Distribution: California led with the highest sum of profit, while Montana had the lowest, highlighting regional disparities in performance.
-
-# 2. Sales by Shipmode 
 
