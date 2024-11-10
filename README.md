@@ -1,3 +1,4 @@
+
 # sales-analysis
 
 The Walmart Superstore has a vast amount of sales data, including information on products, customers, stores, and transactions. The main objective is to extract meaningful insights from this data to analyse the overall sales of walmart superstore.
@@ -11,3 +12,5 @@ The Walmart Superstore has a vast amount of sales data, including information on
 - I used Power BI's built-in visualizations to create various vizualizations. I created a compelling and interactive visualizations using Power BI, including charts, graphs, and dashboards that effectively communicate insights.
 
 # Key Insights and Visualizations
+![IMG-20241110-WA0002.jpg](https://github.com/user-attachments/assets/663f28cb-b909-4842-a817-f967fd6a3aa2)
+
