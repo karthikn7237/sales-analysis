@@ -18,5 +18,14 @@ The Walmart Superstore has a vast amount of sales data, including information on
 
 ![IMG-20241110-WA0004.jpg](https://github.com/user-attachments/assets/4c1b3a01-be27-4cb0-b771-65b24e4d6c8b)
 
+![IMG-20241110-WA0006.jpg](https://github.com/user-attachments/assets/4bfc8944-040b-4332-b63c-6ee0494b3336)
+
+![IMG-20241110-WA0007.jpg](https://github.com/user-attachments/assets/14b74efd-3685-4fe5-bbb3-84c9ac9f9b3a)
+
+![IMG-20241110-WA0010.jpg](https://github.com/user-attachments/assets/2cdc402a-5cc5-41e8-b942-f78f2e4698a8)
+
+![IMG-20241110-WA0009.jpg](https://github.com/user-attachments/assets/41172cae-bd63-46cc-98f7-35d7a9000bce)
+
+
 
 
