@@ -13,7 +13,6 @@ The Walmart Superstore has a vast amount of sales data, including information on
 
 # Key Insights and Visualizations
 
-# 1. Sales by Segment 
 
 ![IMG-20241110-WA0002.jpg](https://github.com/user-attachments/assets/663f28cb-b909-4842-a817-f967fd6a3aa2)
 
