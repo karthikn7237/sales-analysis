@@ -8,3 +8,6 @@ The Walmart Superstore has a vast amount of sales data, including information on
 - After importing the data, I created a data model to define the relationships between the different tables. I used Power BI's drag-and-drop interface to   create the data model.
   
 - I used Power BI's built-in visualizations to create various vizualizations. I created a compelling and interactive visualizations using Power BI, including charts, graphs, and dashboards that effectively communicate insights.
+
+# Key Insights and Visualizations
+![Uploading Screenshot 2024-04-10 111112.png…]()
