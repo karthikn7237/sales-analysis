@@ -23,3 +23,6 @@ Description:
 2. Notable Growth Period: Profit growth started to trend up in July 2013, with a rise of 40.29% over 17 months.
 3. Top Ship Mode by Segment Sales: Standard Class led again with 406,752.80 in sales.
 4. State-Level Profit Distribution: California led with the highest sum of profit, while Montana had the lowest, highlighting regional disparities in performance.
+
+2. Sales by Shipmode 
+
